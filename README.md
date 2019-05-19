@@ -1,4 +1,4 @@
-# PollKrTravel.github.io
+# Pollkr.github.io
 <!DOCTYPE html>
 <html>
   <head>
